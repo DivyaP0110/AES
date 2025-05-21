@@ -1,5 +1,5 @@
 # EX-8-ADVANCED-ENCRYPTION-STANDARD ALGORITHM
-## Name: DIVYA p
+## Name: DIVYA P
 ## Reg num:212223040044
 # Aim:
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
